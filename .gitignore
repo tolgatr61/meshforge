@@ -1,0 +1,14 @@
+build/
+*.o
+*.a
+*.so
+*.dylib
+meshforge
+compile_commands.json
+.cache/
+.vscode/
+.clangd/
+*.swp
+*~
+.idea/
+cmake-build-debug/
