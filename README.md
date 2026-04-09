@@ -2,10 +2,9 @@
 
 3D mesh viewer built from scratch in C++ — OpenGL renderer, procedural geometry, OBJ loader and ImGui interface.
 
-todo: I'll add that later
-![](assets/screenshot1.png)
+![](assets/meshforge_demo1.png)
 
-![](assets/screenshot2.png)
+![](assets/meshforge_demo2.png)
 
 ## build
 
