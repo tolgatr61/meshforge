@@ -2,9 +2,9 @@
 
 3D mesh viewer built from scratch in C++. OpenGL renderer, procedural geometry, OBJ loader and ImGui interface.
 
-![](assets/meshforge_demo1.png)
+![meshforgedemo1](assets/meshforge_demo1.png)
 
-![](assets/meshforge_demo2.png)
+![meshforgedemo2](assets/meshforge_demo2.png)
 
 ## build
 
@@ -19,10 +19,10 @@ cmake --build .
 ## features
 
 - Phong shading, wireframe, normal/depth/UV visualization
-- Procedural meshes — torus, sphere, trefoil knot, icosphere, möbius strip, terrain
+- Procedural meshes torus, sphere, trefoil knot, icosphere, möbius strip, terrain
 - OBJ / MTL loader
 - Orbit camera
-- ImGui interface — scene, display, light and camera controls
+- ImGui interface scene, display, light and camera controls
 
 ## controls
 
